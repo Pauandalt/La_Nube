@@ -42,4 +42,8 @@ https://www.devteam.space/blog/10-top-paas-providers-for-2019/
 
 https://stackify.com/top-iaas-providers/
 
+### videos
 
+https://www.youtube.com/watch?v=36zducUX16w
+
+https://www.youtube.com/watch?v=TIIVmM9RlCU
