@@ -14,4 +14,6 @@ Mediante esta clase se pretende
 | Relación entre los dos conceptos previos | 15 -25 minutos |
 | **Práctica procesador c5i** | **30 minutos** |
 
+![alt text](la_nube_intro.jpg)
+
 ***
