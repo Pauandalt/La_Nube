@@ -4,6 +4,7 @@
 
 Mediante esta clase se pretende 
 
+![alt text](la_nube_intro.jpg)
 
 | Contenido | Duración |
 | ----- | ----- |
@@ -13,7 +14,5 @@ Mediante esta clase se pretende
 |	Ley de Moore | 10-15 minutos |
 | Relación entre los dos conceptos previos | 15 -25 minutos |
 | **Práctica procesador c5i** | **30 minutos** |
-
-![alt text](la_nube_intro.jpg)
 
 ***
