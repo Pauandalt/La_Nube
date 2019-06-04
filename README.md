@@ -33,11 +33,13 @@ https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas
 
 providers: https://www.datamation.com/cloud-computing/50-leading-saas-companies.html
 
+### Paas
+
+https://www.devteam.space/blog/10-top-paas-providers-for-2019/
+
 
 ### Iaas
 
 https://stackify.com/top-iaas-providers/
 
-### Paas
 
-https://www.devteam.space/blog/10-top-paas-providers-for-2019/
