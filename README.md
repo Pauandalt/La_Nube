@@ -17,9 +17,27 @@ Mediante esta clase se pretende dotar de unos conocimientos basicos sobre como f
 | **Práctica procesador c5i** | **30 minutos** |
 
 ***
+
+## intro 
+
 /www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas
 
 https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas
 
 
 ![Alt text](Isaas_Paas_Saas.PNG)
+
+![Alt text](Piramide%20Saas_Isaas_Paas.PNG)
+
+### Saas
+
+providers: https://www.datamation.com/cloud-computing/50-leading-saas-companies.html
+
+
+### Iaas
+
+https://stackify.com/top-iaas-providers/
+
+### Paas
+
+https://www.devteam.space/blog/10-top-paas-providers-for-2019/
