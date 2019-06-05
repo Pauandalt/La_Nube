@@ -89,14 +89,13 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 >El software como servicio (SaaS) es un modelo de distribución de software en el que las aplicaciones están alojadas por una compañía o proveedor de servicio y puestas a disposición de los usuarios a través de una red, generalmente la Internet. Plataforma como servicio (PaaS) es un conjunto de utilitarios para abastecer al usuario de sistemas operativos y servicios asociados a través de Internet sin necesidad de descargas o instalación alguna. Infraestructura como Servicio (IaaS) se refiere a la tercerización de los equipos utilizados para apoyar las operaciones, incluido el almacenamiento, hardware, servidores y componentes de red.
 [source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
-![Alt text](Isaas_Paas_Saas.PNG)
-
 ![Alt text](Piramide%20Saas_Isaas_Paas.PNG)
 
+**Diferenciar cada modalidad:**
 
-/www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas
++ [Link 1](/www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas)
 
-https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas
++ [link 2](https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas)
 
 
 ### Saas
