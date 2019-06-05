@@ -105,7 +105,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 + Imagen de los proveedores:
 
-![alt text](Saas_providers.jpg)
+![alt text](Saas_providers.png)
 
 ### Paas
 
