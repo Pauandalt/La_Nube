@@ -64,6 +64,8 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 ![alt text](usos_de_nubes.png)
 
+**Video:** 
+
 [![IMAGE ALT TEXT HERE](Estado_Actual.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
 
 ## Almacenamietno en la nube
