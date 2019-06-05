@@ -39,8 +39,6 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 [source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
-[wiki 2](https://es.wikipedia.org/wiki/Almacenamiento_en_nube)
-
 | **Ventajas** | **Desventajas** |
 | ----- | ----- |
 |  Integración probada de servicios Red |  Centralización de datos  |
@@ -60,19 +58,25 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 [source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
-https://www.google.com/search?rlz=1C1CHBD_esES774ES778&biw=1366&bih=657&tbm=isch&sa=1&ei=8o_2XNCKMY-tgwfHy6yQAQ&q=cloud+providers&oq=cloud+provi&gs_l=img.1.0.0l2j0i30l8.6818.11606..12859...6.0..0.154.1301.9j4......0....1..gws-wiz-img.......0i67.-noECvKrfKY#imgrc=99Vb18AcWps3hM:
+## Uso actual
+)
+[link](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/): explicación de la situación actual del mercado en cuanto al uso de las diferentes nubes, los diferentes usos y el futuro que se espera.
+![alt text](usos_de_nubes.png)
+
+## Almacenamietno en la nube
+
+[![IMAGE ALT TEXT HERE](video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
+[wiki 2](https://es.wikipedia.org/wiki/Almacenamiento_en_nube)
+
+![Alt text](Isaas_Paas_Saas.PNG)
+
+![Alt text](Piramide%20Saas_Isaas_Paas.PNG)
+
 
 /www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas
 
 https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas
 
-## Almacenamietno en la nube
-
-[![IMAGE ALT TEXT HERE](video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
-
-![Alt text](Isaas_Paas_Saas.PNG)
-
-![Alt text](Piramide%20Saas_Isaas_Paas.PNG)
 
 ### Saas
 
