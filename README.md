@@ -77,9 +77,17 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 [![IMAGE ALT TEXT HERE](video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
 
 **Principales proveedores de almacenamiento en la nube:** 
++ [link](https://www.paredro.com/10sitios-almacenamiento-en-la-nube-guarda-respalda-tus-archivos/): principales proveedores de almacenamietno en la nube.
+
 ![Alt text](almacenamiento_nube_Proveedores.jpg)
 
+
 ## La nube es mucho más que almacenamiento 
+
+>El concepto de “nube informática” es muy amplio, y abarca casi todos los posibles tipo de servicio en línea, pero cuando las empresas predican ofrecer un utilitario alojado en la nube, por lo general se refieren a alguna de estas tres modalidades: el software como servicio (por sus siglas en inglés SaaS —Software as a Service—), Plataforma como Servicio (PaaS) e Infraestructura como Servicio (IaaS).
+
+>El software como servicio (SaaS) es un modelo de distribución de software en el que las aplicaciones están alojadas por una compañía o proveedor de servicio y puestas a disposición de los usuarios a través de una red, generalmente la Internet. Plataforma como servicio (PaaS) es un conjunto de utilitarios para abastecer al usuario de sistemas operativos y servicios asociados a través de Internet sin necesidad de descargas o instalación alguna. Infraestructura como Servicio (IaaS) se refiere a la tercerización de los equipos utilizados para apoyar las operaciones, incluido el almacenamiento, hardware, servidores y componentes de red.
+[source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
 ![Alt text](Isaas_Paas_Saas.PNG)
 
