@@ -29,13 +29,13 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 **Características:**
 
-+ *Agilidad
-+ Escalabilidad y elasticidad
-+ Independencia entre el dispositivo y la ubicación
-+ Permite compartir servidores y dispositivos de almacenamiento
-+ Rendimiento
-+ Seguridad
-+ Mantenimiento*
++ *Agilidad*
++ *Escalabilidad y elasticidad*
++ *Independencia entre el dispositivo y la ubicación*
++ *Permite compartir servidores y dispositivos de almacenamiento*
++ *Rendimiento*
++ *Seguridad*
++ *Mantenimiento*
 
 [source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
