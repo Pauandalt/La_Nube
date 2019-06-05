@@ -28,8 +28,8 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 [wiki 2](https://es.wikipedia.org/wiki/Almacenamiento_en_nube)
 
-| **Ventajas | Desventajas** |
-| :-----: | :-----: |
+| **Ventajas** | **Desventajas** |
+| ----- | ----- |
 |  Integración probada de servicios Red |  Centralización de datos  |
 | Prestación de servicios a nivel mundial | La confiabilidad de los servicios depende de la "salud" tecnológica |
 |	Permite prescindir de instalar cualquier tipo de software  | La disponibilidad de servicios altamente especializadosmuy limitada |
