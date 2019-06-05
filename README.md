@@ -68,7 +68,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 [![IMAGE ALT TEXT HERE](Estado_Actual.PNG)](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/)
 
-## Almacenamietno en la nube
+## Almacenamiento en la nube
 
 + [Link](https://es.wikipedia.org/wiki/Almacenamiento_en_nube): Explicación de qué es el almacenamiento en la nube.
 
@@ -77,7 +77,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 [![IMAGE ALT TEXT HERE](video_almacenamiento_en_la_nube.PNG)](https://www.youtube.com/watch?v=3nFZj3bB9g8)
 
 **Principales proveedores de almacenamiento en la nube:** 
-+ [link](https://www.paredro.com/10sitios-almacenamiento-en-la-nube-guarda-respalda-tus-archivos/): principales proveedores de almacenamietno en la nube.
++ [link](https://www.paredro.com/10sitios-almacenamiento-en-la-nube-guarda-respalda-tus-archivos/): principales proveedores de almacenamiento en la nube.
 
 ![Alt text](almacenamiento_nube_Proveedores.jpg)
 
