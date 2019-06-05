@@ -28,6 +28,18 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 [wiki 2](https://es.wikipedia.org/wiki/Almacenamiento_en_nube)
 
+| **Ventajas | Desventajas** |
+| :-----: | :-----: |
+|  Integración probada de servicios Red |  Centralización de datos  |
+| Prestación de servicios a nivel mundial | La confiabilidad de los servicios depende de la "salud" tecnológica |
+|	Permite prescindir de instalar cualquier tipo de software  | La disponibilidad de servicios altamente especializadosmuy limitada |
+|	Implementación más rápida y con menos riesgos | Curva de aprendizaje en empresas de orientación no tecnológica tenga unas pendientes significativas |
+| compartir servidores y dispositivos de almacenamiento | Seguridad de la información de la empresa  |
+| Actualizaciones automáticas que no afectan negativamente a los recursos de TI | Escalabilidad a largo plazo |
+| Contribuye al uso eficiente de la energía: |  |
+
+
+
 https://www.google.com/search?rlz=1C1CHBD_esES774ES778&biw=1366&bih=657&tbm=isch&sa=1&ei=8o_2XNCKMY-tgwfHy6yQAQ&q=cloud+providers&oq=cloud+provi&gs_l=img.1.0.0l2j0i30l8.6818.11606..12859...6.0..0.154.1301.9j4......0....1..gws-wiz-img.......0i67.-noECvKrfKY#imgrc=99Vb18AcWps3hM:
 
 /www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas
