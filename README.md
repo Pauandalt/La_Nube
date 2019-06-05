@@ -59,8 +59,9 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 [source](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
 ## Uso actual
-)
-[link](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/): explicación de la situación actual del mercado en cuanto al uso de las diferentes nubes, los diferentes usos y el futuro que se espera.
+
++ [link](https://www.zdnet.com/article/top-cloud-providers-2018-how-aws-microsoft-google-ibm-oracle-alibaba-stack-up/): explicación de la situación actual del mercado en cuanto al uso de las diferentes nubes, los diferentes usos y el futuro que se espera.
+
 ![alt text](usos_de_nubes.png)
 
 ## Almacenamietno en la nube
