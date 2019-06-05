@@ -93,7 +93,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 **Diferenciar cada modalidad:**
 
-+ [Link 1](/www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas)
++ [Link 1](https://www.genbeta.com/desarrollo/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas)
 
 + [link 2](https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas)
 
