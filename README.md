@@ -109,7 +109,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 ### Paas
 
-+ [link](https://www.devteam.space/blog/10-top-paas-providers-for-2019/): Principales proveedores de Saas.
++ [link](https://www.devteam.space/blog/10-top-paas-providers-for-2019/): Principales proveedores de Paas.
 
 + Imagen de los proveedores:
 
