@@ -123,15 +123,13 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 ![alt text](Iaas_providers.png)
 
-## Caso Práctico
-
 ## Contenido adicional: Bitcoin y el blockchain ejemplos de nubes.
 
-## *Bitcoin*
+### *Bitcoin*
 
 [![IMAGE ALT TEXT HERE](video_Bitcoin.PNG)](https://www.youtube.com/watch?v=kubGCSj5y3k&ab_channel=SciShow)
 
-## *Blockchain*
+### *Blockchain*
 
 [![IMAGE ALT TEXT HERE](video_Blockchain.PNG)](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained-Savjee)
 
