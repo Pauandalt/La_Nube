@@ -23,7 +23,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 **Definición y explicación de qué es la nube**
 
 1. [Link 1](http://diccionario.raing.es/es/lema/computaci%C3%B3n-en-la-nube)
-2. [Link 2]()
+2. [Link 2](https://azure.microsoft.com/es-es/overview/what-is-the-cloud/)
 3. [link 3](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
 
