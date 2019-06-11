@@ -18,7 +18,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 
 ***
 
-## introducción
+## Introducción
 
 **Definición y explicación de qué es la nube**
 
