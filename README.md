@@ -43,7 +43,7 @@ Mediante esta clase se pretende dotar de unos conocimientos básicos sobre como 
 | ----- | ----- |
 |  Integración probada de servicios Red |  Centralización de datos  |
 | Prestación de servicios a nivel mundial | La confiabilidad de los servicios depende de la "salud" tecnológica |
-|	Permite prescindir de instalar cualquier tipo de software  | La disponibilidad de servicios altamente especializadosmuy limitada |
+|	Permite prescindir de instalar cualquier tipo de software  | La disponibilidad de servicios altamente especializados muy limitada |
 |	Implementación más rápida y con menos riesgos | Curva de aprendizaje en empresas de orientación no tecnológica tenga unas pendientes significativas |
 | compartir servidores y dispositivos de almacenamiento | Seguridad de la información de la empresa  |
 | Actualizaciones automáticas que no afectan negativamente a los recursos de TI | Escalabilidad a largo plazo |
